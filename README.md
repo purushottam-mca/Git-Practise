@@ -483,7 +483,7 @@ Tensor Calculus and Analytical Dynamics by Papastavridis
 5. Abraham and Marsden - Foundations of Mechanics (very advanced)
 6. Whittaker - A Treatise on the Analytical Dynamics of Particles and Rigid Bodies (Classic reference)
 
-#### Acoustics
+#### Acoustics 
 
 1. Fundamentals of Engineering Acoustics by Kinsler
 2. Acoustics by Beranek -->
